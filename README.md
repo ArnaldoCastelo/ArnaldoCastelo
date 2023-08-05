@@ -37,16 +37,17 @@
   <img align="center" alt="git" height="70" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="github" height="60" width="110" src="/assets/GitHub.png">
  <img align="center" alt="linux" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ <img align="center" alt="linux" height="80" width="100" src=https://raw.githubusercontent.com/devicons/devicons/master/icons/WhatsApp/whatsapp-original.svg">
 </div><br>
 
 <div align="center">
   
-  <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https:///" target="_blue"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arnaldo-ferreira-castelo-12223225b/feed/?trk=404_page/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:arnaldoferreiracastelo10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:55 27998010625"><img src="https://img.shields.io/badge/-wattszapp-%23333?style=for-the-badge&logo=wattszapp&logoColor=green" target="_green"></a>
-</div>
+   <a href="mailto:arnaldoferreiracastelo10@gmail.com"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor" white="green"></a>
 
+  
 
 </div>
 
