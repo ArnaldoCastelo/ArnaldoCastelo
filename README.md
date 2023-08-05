@@ -2,8 +2,8 @@
 <div>
   
   <h1 align="center">
-    Ola, Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">ArnaldoCastelo 😃️</a>
+    Ola! Eu sou o 
+    <a href="https://">ArnaldoCastelo 😃️</a>
   </h1>
   
   <p align="center">
