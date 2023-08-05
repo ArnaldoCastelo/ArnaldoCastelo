@@ -44,5 +44,9 @@
   <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arnaldo-ferreira-castelo-12223225b/feed/?trk=404_page/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:arnaldoferreiracastelo10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:55 27998010625"><img src="https://img.shields.io/badge/-wattszapp-%23333?style=for-the-badge&logo=wattszapp&logoColor=green" target="_green"></a>
+</div>
+
+
 </div>
 
