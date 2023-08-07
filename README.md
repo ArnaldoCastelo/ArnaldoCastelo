@@ -42,7 +42,7 @@
 
 <div align="center">
   
-  <a href="mailto:@ArnaldoCastelo"><img src="https://img.shields.io/badge/telegram-%252850?style=plastic&logo=telegram"><a>
+  <a href="mailto:@ArnaldoCastelo"><img src="https://img.shields.io/badge/telegram-❤️-252850?style=plastic&logo=telegram"><a>
   <a href="https://www.linkedin.com/in/arnaldo-ferreira-castelo-12223225b/feed/?trk=404_page/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:arnaldoferreiracastelo10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="mailto:arnaldoferreiracastelo10@gmail.com"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor" white="green"></a>
