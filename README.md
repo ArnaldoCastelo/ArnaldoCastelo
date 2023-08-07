@@ -7,7 +7,7 @@
   </h1>
   
   <p align="center">
-    Atuamente estou cursando ANALISE E DESENVOLVIMENTO DE SISTEMAS!
+    Atualmente estou cursando ANALISE E DESENVOLVIMENTO DE SISTEMAS!
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
